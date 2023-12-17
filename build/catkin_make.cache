@@ -1,0 +1,2 @@
+urdf_testing
+-DCATKIN_DEVEL_PREFIX=/home/ahmedkhalifa/project_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ahmedkhalifa/project_ws/install -G Unix Makefiles

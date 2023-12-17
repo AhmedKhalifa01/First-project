@@ -1,0 +1,8 @@
+prefix=/home/ahmedkhalifa/project_ws/devel
+
+Name: urdf_testing
+Description: Description of urdf_testing
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
